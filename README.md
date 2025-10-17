@@ -1,5 +1,8 @@
 # The *Is.* Framework  
 *A Closed Logical System for the Evolution of Existence*  
+
+[![DOI](https://zenodo.org/badge/1078440391.svg)](https://doi.org/10.5281/zenodo.17381259)
+
 by **Uisce Kavanagh**  
 © 2025 Uisce Kavanagh. All rights reserved.  
 
