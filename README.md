@@ -34,6 +34,17 @@ It demonstrates how understanding can evolve through self-consistent reasoning r
 
 ---
 
+## Applications of the Framework  
+
+### [Uisce – The Universal Reciprocal Language](https://github.com/UisceKavanagh/Uisce-Universal-Language)  
+**Uisce** is a logically derived universal language that applies the Is-Framework’s foundational logic of **epistemic proportionality**, **contextual relativity**, and **causal reciprocity** to human and AI communication.  
+It translates the same principles used in reasoning into linguistic structure—creating a **self-correcting, proportionally honest medium** of expression.  
+
+> In essence, *Uisce* is to communication what the *Is.* Framework is to reasoning:  
+> both operate through energetic equilibrium between perception and expression.  
+
+---
+
 ## License & Rights
 This framework and code are released for **non-commercial review, discussion, and replication with credit.**  
 **Commercial or derivative use requires written consent.**
