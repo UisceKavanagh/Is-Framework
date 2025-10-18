@@ -38,7 +38,7 @@ It demonstrates how understanding can evolve through self-consistent reasoning r
 This framework and code are released for **non-commercial review, discussion, and replication with credit.**  
 **Commercial or derivative use requires written consent.**
 
-Contact: **is.framework@proton.me**
+Contact: **uiscekavanagh@gmail.com**
 
 ---
 
